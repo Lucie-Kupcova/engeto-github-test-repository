@@ -9,3 +9,4 @@ git add. -  zastaguje všechnyzměněné soubory
 git commit - m "zpráva" musí tam být popsaná zprava proč se změna udělala, uloženo u sebe v PC
 git push - pošle zpět zěmny na github depositář, chce to autorizaci
 git pull - stáhneme si změny z remote depositáře
+source control stagování - changes - oranžové M zobrazí změny (modified)  - plus je zastaguje (git add) - tlačítko commit -vyplnit zprávu
